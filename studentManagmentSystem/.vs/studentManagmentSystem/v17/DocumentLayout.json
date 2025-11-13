@@ -1,0 +1,491 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\models\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:models\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\studentmanagmentsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:studentmanagmentsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\models\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:models\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\models\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:models\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\entity\\majorcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:entity\\majorcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\repository\\interfaces\\ideparmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:repository\\interfaces\\ideparmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\repository\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:repository\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\repository\\interfaces\\igenericrepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:repository\\interfaces\\igenericrepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\repository\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:repository\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\dataaccess\\configuration\\minorcourseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:dataaccess\\configuration\\minorcourseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\dataaccess\\configuration\\majorcourseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:dataaccess\\configuration\\majorcourseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\entity\\minorcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:entity\\minorcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\dataaccess\\configuration\\studnetconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:dataaccess\\configuration\\studnetconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\dataaccess\\configuration\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:dataaccess\\configuration\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|d:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentmanagmentsystem\\dataaccess\\configuration\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901011BF-33CB-4A67-8B9D-E7A87AD951AF}|studentManagmentSystem.csproj|solutionrelative:dataaccess\\configuration\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "Services\\CourseService.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Services\\CourseService.cs",
+              "RelativeToolTip": "Services\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:49:12.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Services\\Interfaces\\ICourseService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICourseService.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Services\\Interfaces\\ICourseService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICourseService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:43:23.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Models\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\StudentViewModel.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Models\\StudentViewModel.cs",
+              "RelativeToolTip": "Models\\StudentViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:38:13.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentViewModel.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Models\\DepartmentViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\DepartmentViewModel.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Models\\DepartmentViewModel.cs",
+              "RelativeToolTip": "Models\\DepartmentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:35:19.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseViewModel.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Models\\CourseViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\CourseViewModel.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Models\\CourseViewModel.cs",
+              "RelativeToolTip": "Models\\CourseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:34:44.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Repository\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\DepartmentRepository.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Repository\\DepartmentRepository.cs",
+              "RelativeToolTip": "Repository\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:29:32.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDeparmentRepository.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Repository\\Interfaces\\IDeparmentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IDeparmentRepository.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Repository\\Interfaces\\IDeparmentRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IDeparmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:28:32.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Repository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CourseRepository.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Repository\\CourseRepository.cs",
+              "RelativeToolTip": "Repository\\CourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:21:30.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Repository\\Interfaces\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\ICourseRepository.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Repository\\Interfaces\\ICourseRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:20:19.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\StudentRepository.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwFkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:48:19.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Repository\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Repository\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:27:33.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:17:30.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenericRepositiry.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Repository\\Interfaces\\IGenericRepositiry.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IGenericRepositiry.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Repository\\Interfaces\\IGenericRepositiry.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IGenericRepositiry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:04:50.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MinorCourseConfiguration.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\DataAccess\\Configuration\\MinorCourseConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configuration\\MinorCourseConfiguration.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\DataAccess\\Configuration\\MinorCourseConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configuration\\MinorCourseConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T17:37:43.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MajorCourseConfiguration.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\DataAccess\\Configuration\\MajorCourseConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configuration\\MajorCourseConfiguration.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\DataAccess\\Configuration\\MajorCourseConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configuration\\MajorCourseConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T17:26:12.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MinorCourse.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Entity\\MinorCourse.cs",
+              "RelativeDocumentMoniker": "Entity\\MinorCourse.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Entity\\MinorCourse.cs",
+              "RelativeToolTip": "Entity\\MinorCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T17:12:32.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MajorCourse.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Entity\\MajorCourse.cs",
+              "RelativeDocumentMoniker": "Entity\\MajorCourse.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Entity\\MajorCourse.cs",
+              "RelativeToolTip": "Entity\\MajorCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T17:12:10.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:07:32.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T16:06:57.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\DataAccess\\Configuration\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configuration\\DepartmentConfiguration.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\DataAccess\\Configuration\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configuration\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:01:21.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CourseConfiguration.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\DataAccess\\Configuration\\CourseConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configuration\\CourseConfiguration.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\DataAccess\\Configuration\\CourseConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configuration\\CourseConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:56:26.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StudnetConfiguration.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\DataAccess\\Configuration\\StudnetConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configuration\\StudnetConfiguration.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\DataAccess\\Configuration\\StudnetConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configuration\\StudnetConfiguration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:39:37.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\DataAccess\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\AppDbContext.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\DataAccess\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccess\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:31:17.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "studentManagmentSystem",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\studentManagmentSystem.csproj",
+              "RelativeDocumentMoniker": "studentManagmentSystem.csproj",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\studentManagmentSystem.csproj",
+              "RelativeToolTip": "studentManagmentSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T15:25:25.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Entity\\Course.cs",
+              "RelativeDocumentMoniker": "Entity\\Course.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Entity\\Course.cs",
+              "RelativeToolTip": "Entity\\Course.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:13:46.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Entity\\Department.cs",
+              "RelativeDocumentMoniker": "Entity\\Department.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Entity\\Department.cs",
+              "RelativeToolTip": "Entity\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:12:54.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "Entity\\Student.cs",
+              "ToolTip": "D:\\asp.net core\\asp.net core\\projects with database\\studentmanagmentsystem\\studentManagmentSystem\\Entity\\Student.cs",
+              "RelativeToolTip": "Entity\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:10:05.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
